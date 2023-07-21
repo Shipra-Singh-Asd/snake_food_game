@@ -10,7 +10,3 @@ The game ends when the snake either moves off the screen or moves into itself. T
 * CSS
 
 * JavaScript
-
-## How to play this Game
-
-[Please click the link](https//shipra-singh-asd.github.io/snake_food_game/)
